@@ -1,4 +1,6 @@
 # :mirror: blisse
+![image](https://github.com/user-attachments/assets/c4e6ad51-33b4-48ea-842d-7a7df08f4de4)
+
 <br/><br/>
 
 ## 🖥 작업자
