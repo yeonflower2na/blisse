@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/c4e6ad51-33b4-48ea-842d-7a7df08f4de4)
 
 
-## 🖥 작업자
+## 🖥 팀프로젝트 작업자
 정연희(yeon hui Jeong), 김해진(Haejin Kim), 전채아(Chae A Jeon)
 <br/>
 <br/>
